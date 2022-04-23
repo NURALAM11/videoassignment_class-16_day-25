@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.header {
+    background-color: blue;
+}
+
+.header img {
+    width: 160px;
+    height: auto;
+}
+
+.header ul {
+    list-style: none;
+}
+
+.header ul li {
+    display: inline-block;
+}
+
+.header ul li a {
+    color: white;
+    padding: 0px 5px;
+    text-decoration: none;
+
+}
